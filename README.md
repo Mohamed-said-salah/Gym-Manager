@@ -12,7 +12,7 @@ it is an app that help you manage your GYM, There is a registration of the atten
 * intl
 
 ## Features 🥇
-* you can add trainers (name, code and photo) and you can edit him
+* you can add trainers (name, code and photo) and you can edit them
 * Recording the attendance and absence of trainers 
 ## IDEs 💻
 * VS code
