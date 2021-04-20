@@ -26,12 +26,15 @@ it is an app that help you manage your GYM, There is a registration of the atten
    
 
 <img src="https://user-images.githubusercontent.com/38363762/115417982-634f4480-a1f9-11eb-9d69-dbeb40eab1a8.jpg" alt="drawing" width="200" class = "center"/>
-.center {
+<style> 
+   .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+</style>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
