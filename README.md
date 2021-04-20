@@ -23,13 +23,20 @@ it is an app that help you manage your GYM, There is a registration of the atten
 ## Setup
 * clone the repository and run the app on any plugged ios or android Emulator or physical device.
 ## ScreenShots 🖼️
+<dive>
+  <div>
+    <img src="https://user-images.githubusercontent.com/38363762/115417948-5a5e7300-a1f9-11eb-9774-8802f42f8da0.jpg" alt="drawing" width="200"/>
 
-<img src="https://user-images.githubusercontent.com/38363762/115417948-5a5e7300-a1f9-11eb-9774-8802f42f8da0.jpg" alt="drawing" width="200"/>
+  </div>
+   <div>
+  <img src="https://user-images.githubusercontent.com/38363762/115417982-634f4480-a1f9-11eb-9d69-dbeb40eab1a8.jpg" alt="drawing" width="200"/>
+  </div>
+</div>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/38363762/115417982-634f4480-a1f9-11eb-9d69-dbeb40eab1a8.jpg" alt="drawing" width="200"/>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
